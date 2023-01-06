@@ -5,6 +5,7 @@ Input: Resume and multiple job descriptions
 Output: Score of the best jobs to apply to based on resume.
 
 Dataset taken from: https://www.kaggle.com/datasets/wahib04/multilabel-resume-dataset
+
 This dataset contains the category of the resume and the resume as a string. I renamed category to current occupation in order to add a little bit of story behind the dataset. This was the only resume dataset I found on Kaggle.
 
 The application was deployed using Streamlit and further deployed publically using herokuapp.
